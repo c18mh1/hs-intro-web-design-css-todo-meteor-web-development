@@ -1,5 +1,8 @@
+@import url(http://fonts.googleapis.com/css?family=Trade+Winds);
+
 html{
   background: url("../images/lined-paper.gif") no-repeat top center;
+  font-family: "Times New Roman", serif;
 }
 
 #header{
@@ -10,6 +13,7 @@ html{
 h1 {
   margin-top: 45px;
   text-align: center;
+  color: blue;
 }
 
 p{
